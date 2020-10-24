@@ -1,4 +1,4 @@
-package org.geekhub.lesson01;
+package org.geekhub.snippets.lesson02;
 
 import java.util.Scanner;
 
