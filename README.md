@@ -6,4 +6,4 @@ Java for Web project for GeekHub, Season X
 
 |Lesson|Date|Topic|
 |:----:|:--:|:----|
-| 1|October 18, 2020|Intro|
+| 1|October 19, 2020|Intro|
