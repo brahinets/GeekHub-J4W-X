@@ -16,4 +16,7 @@ public class CalculatorTest {
         assertEquals(actualResult,expectedResult);
     }
 
+    @Test(enabled = false)
+    public void coverage_example_with_not_fully_tested_code() {
+    }
 }
