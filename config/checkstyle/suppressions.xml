@@ -6,4 +6,5 @@
 
 <suppressions>
     <suppress checks="LineLength" files=".*Test\.java"/>
+    <suppress checks="MissingJavadocMethod" files=".*\.java"/>
 </suppressions>
