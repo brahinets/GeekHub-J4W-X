@@ -5,6 +5,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertNotEquals;
 
 public class CalculatorWithOperationsTest {
 
@@ -26,14 +27,12 @@ public class CalculatorWithOperationsTest {
 
     @Test
     public void add_operation_with_mocks() {
-/*
         Mockito.when(
             sumOperation.calculate(
                 Mockito.eq(1),
                 Mockito.eq(2)
             )
         ).thenReturn(3);
-*/
 
         Number result = sumOperation.calculate(1, 2);
 
@@ -42,13 +41,11 @@ public class CalculatorWithOperationsTest {
 
     @Test
     public void sqrt_operation_with_spy() {
-/*
         Mockito.doReturn(3.0).when(sqrtOperation)
             .calculate(4);
-*/
 
         Number result = sqrtOperation.calculate(4);
 
-        assertEquals(result, 2.0);
+        assertNotEquals(result, 2.0);
     }
 }
