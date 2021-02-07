@@ -19,7 +19,7 @@ Java for Web project for GeekHub, Season X
 |11|December 28, 2020|Input/Output|
 |12|January 18, 2021|Servlet API (Web)|
 |13|January 25, 2021|JDBC|
-|??|Month ??, 2021|Spring IoC|
+|14|February 1, 2021|Spring IoC|
 |??|Month ??, 2021|Spring MVC, Boot|
 |??|Month ??, 2021|Spring Security|
 |??|Month ??, 2021|REST, Swagger|
