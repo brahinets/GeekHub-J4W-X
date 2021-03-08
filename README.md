@@ -23,8 +23,8 @@ Java for Web project for GeekHub, Season X
 |15|February 8, 2021|Spring JDBC, Flyway|
 |16|February 15, 2021|Spring MVC, Boot|
 |17|February 22, 2021|Practice|
+|18|March 01, 2021|REST, Swagger|
 |??|Month ??, 2021|Spring Security|
-|??|Month ??, 2021|REST, Swagger|
 |??|Month ??, 2021|Integration Testing|
 |??|Month ??, 2021|Concurrency|
 |??|Month ??, 2021|Hibernate, Spring Data|
