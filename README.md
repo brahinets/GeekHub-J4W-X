@@ -26,7 +26,7 @@ Java for Web project for GeekHub, Season X
 |18|March 01, 2021|REST, Swagger|
 |19|March 09, 2021|Spring Security p1.|
 |20|March 15, 2021|Spring Security p2|
+|21|March 22, 2021|Concurrency|
 |??|Month ??, 2021|Integration Testing|
-|??|Month ??, 2021|Concurrency|
 |??|Month ??, 2021|Hibernate, Spring Data|
 |??|Month ??, 2021|CI/CD|
