@@ -27,6 +27,8 @@ Java for Web project for GeekHub, Season X
 |19|March 09, 2021|Spring Security p1.|
 |20|March 15, 2021|Spring Security p2|
 |21|March 22, 2021|Concurrency|
-|??|Month ??, 2021|Integration Testing|
-|??|Month ??, 2021|Hibernate, Spring Data|
-|??|Month ??, 2021|CI/CD|
+|22|March 29, 2021|Integration Testing|
+|23|April 5, 2021|Course works preview|
+|24|April 12, 2021|Hibernate, Spring Data|
+|25|April 19, 2021|CI/CD|
+|26|April 26, 2021|Course works review|
