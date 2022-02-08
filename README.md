@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/4119411/153066664-5dc086e6-0ddc-428c-bbb6-313e4ee8244b.png">   
+  <img width="600" height="220" src="https://user-images.githubusercontent.com/4119411/153082943-1b3424b2-0a77-4490-bedf-f734703b331c.png">   
 </p>
 
 > # Teaching is one of the best ways to keep learning
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153068206-c262ac67-dc10-4652-9fa0-bcc6924405ab.png"> GeekHub
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/4119411/153082286-ee66eabe-7f14-48ed-8256-ad7cf4a8dd2f.png"> GeekHub
 ------------
 <p align="justify">
 Repository is dedicated to the tenth season of open source volunteering educational initiative within the GeekHub organization, where people can obtain IT-skills for free. During 7-8 months of education, geeks attend a hub hosted in the city of <a href="https://goo.gl/maps/mZi6u17qnN3VdEzC7">Cherkasy (Ukraine, 18000)</a> and acquire the basic theoretical skills verified by practice in a variety of courses, from Project Management to Java and JavaScript. More details about GeekHub, our team, and our goals can be found on the official organization <a href="https://geekhub.ck.ua">GeekHub</a> web-page.
