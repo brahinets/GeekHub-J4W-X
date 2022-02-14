@@ -57,5 +57,5 @@ Anniversary season 10 led by two brave geeks <a href="https://github.com/brahine
 </details>
 
 
-### [In previous seasons...](https://github.com/brahinets/GeekHub-J4W-9#season-9)
+### [In previous seasons...](https://github.com/brahinets/GeekHub-J4W-9)
 </p>
